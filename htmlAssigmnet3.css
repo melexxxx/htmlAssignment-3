@@ -1,0 +1,53 @@
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 2px 2px green;
+    color: white;
+    background-color: brown;
+}
+
+H3 {
+    text-align: left;
+    font-size: medium; 
+}
+h4 {
+    text-align: center;
+    background-color: blue;
+    color: wheat;
+    text-shadow: 1px 1px aqua;
+}
+
+table {
+    border: 1px solid silver;
+
+}
+td:hover {
+    background-color: yellor;
+    color: black;
+}
+
+tr, th {
+    background-color: black;
+    color: cornsilk;
+}
+
+tr, td {
+    background-color: darkgreen;
+    color: white;
+}
+
+
+table, td {
+    border: 2px solid silver;
+}
+
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    
+    list-style-type: upper-roman;
+    text-shadow: -2px 2px 2px blue;
+}
